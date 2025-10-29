@@ -3,7 +3,7 @@
 ---
 
 ## Overview
-This project investigates whether a **fully offline reinforcement learning (RL) agent** can learn effective hint timing policies for programming education.
+This project investigates whether a fully offline reinforcement learning (RL) agent can learn effective hint timing policies for programming education.
 
 - Objective: Learn when to offer hints that maximise student understanding.
 - Approach: Offline Conservative Q-Learning (CQL) trained on historical tutor logs (iSnap dataset).
